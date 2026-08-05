@@ -10,9 +10,9 @@ MERN Developer | Machine Learning Enthusiast | DSA
 
 <p>
 🔭 I’m currently working on Machine Learning Projects<br>
-🌱 I’m currently learning Dynamic Programming<br>
+🌱 I’m currently learning GenAI<br>
 🤖 Interested in Machine Learning and AI<br>
-💬 Ask me about DSA, MERN and Machine Learning<br>
+💬 Ask me about DSA, DL and Machine Learning<br>
 📫 Reach me at: <b>kartikbhangale20@gmail.com</b>
 </p>
 
