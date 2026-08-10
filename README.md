@@ -38,13 +38,15 @@
 ### 💻 Top Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenixftw6968&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-73.6%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-15.0%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-5.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-4.4%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1.2%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <sub><i>Based on public repos as of Aug 2026 · updates when you edit this manually or re-run the stats fetch</i></sub>
 </p>
 
 <p align="center">
