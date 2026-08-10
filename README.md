@@ -30,16 +30,21 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,js,html,css,react,nodejs,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,jupyter,js,html,css,react,nodejs,git,github,vscode,mysql" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Top Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fenixftw6968&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenixftw6968&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenixftw6968&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 <p align="center">
@@ -52,14 +57,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fenixftw6968&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fenixftw6968&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
