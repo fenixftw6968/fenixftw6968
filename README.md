@@ -70,10 +70,8 @@
   <img src="https://raw.githubusercontent.com/fenixftw6968/fenixftw6968/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ This one needs a one-time GitHub Actions setup (see below) — it won't render until you add it.
-
 ---
 
 <p align="center">
   <b>Thanks for visiting my profile! 👋</b>
-</p>
+</p>f
