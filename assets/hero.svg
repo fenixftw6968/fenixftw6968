@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Kartik Bhangale - Backend, AI/ML, Competitive Programming">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f17"/><stop offset="1" stop-color="#0d1b2a"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1b2535" stroke-width="1"/></pattern>
+</defs>
+<rect width="1000" height="260" rx="14" fill="url(#bg)"/>
+<rect width="1000" height="260" rx="14" fill="url(#g)" opacity=".55"/>
+<rect x="0.5" y="0.5" width="999" height="259" rx="14" fill="none" stroke="#22304a"/>
+<rect x="0" y="0" width="1000" height="3" fill="url(#ac)"/>
+<g font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+<text x="50" y="52" font-size="13" fill="#5b6b86" letter-spacing="2">~/kartik-bhangale  ·  pune, india</text>
+<text x="50" y="112" font-size="46" font-weight="700" fill="#e6edf7">Kartik Bhangale</text>
+<text x="50" y="150" font-size="19" fill="url(#ac)">Backend Engineer  /  AI-ML Engineer  /  Competitive Programmer</text>
+<text x="50" y="196" font-size="15" fill="#8da2c0">Building systems that hold up.</text>
+<text x="50" y="219" font-size="15" fill="#8da2c0">Training models that see.</text>
+<text x="50" y="242" font-size="15" fill="#8da2c0">Breaking problems down until they fit in a function.</text>
+</g>
+<g font-family="'JetBrains Mono',Consolas,monospace" font-size="12">
+<rect x="770" y="40" width="190" height="26" rx="13" fill="#0f2a1f" stroke="#1f6b4a"/><circle cx="788" cy="53" r="4" fill="#34d399"/><text x="800" y="57" fill="#6ee7b7">status: building</text>
+</g>
+</svg>

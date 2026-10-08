@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-label="Developer status: current learning focus">
+<defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+<rect width="760" height="330" rx="12" fill="#0b0f17" stroke="#22304a"/>
+<rect width="760" height="38" rx="12" fill="#111a29"/><rect y="26" width="760" height="12" fill="#111a29"/>
+<circle cx="22" cy="19" r="5" fill="#ff5f56"/><circle cx="40" cy="19" r="5" fill="#ffbd2e"/><circle cx="58" cy="19" r="5" fill="#27c93f"/>
+<g font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+<text x="380" y="23" font-size="12" fill="#5b6b86" text-anchor="middle">developer_status — learning focus, not a skill score</text>
+<g font-size="13" fill="#9fb2cf">
+<text x="32" y="82">BACKEND ENGINEERING</text><rect x="260" y="70" width="400" height="12" rx="6" fill="#16202f"/><rect x="260" y="70" width="320" height="12" rx="6" fill="url(#a)"/>
+<text x="32" y="122">DSA / PROBLEM SOLVING</text><rect x="260" y="110" width="400" height="12" rx="6" fill="#16202f"/><rect x="260" y="110" width="288" height="12" rx="6" fill="url(#a)"/>
+<text x="32" y="162">APPLIED ML / CV</text><rect x="260" y="150" width="400" height="12" rx="6" fill="#16202f"/><rect x="260" y="150" width="260" height="12" rx="6" fill="url(#a)"/>
+<text x="32" y="202">SYSTEM DESIGN</text><rect x="260" y="190" width="400" height="12" rx="6" fill="#16202f"/><rect x="260" y="190" width="200" height="12" rx="6" fill="url(#a)"/>
+<text x="32" y="242">DISTRIBUTED / EVENT-DRIVEN</text><rect x="260" y="230" width="400" height="12" rx="6" fill="#16202f"/><rect x="260" y="230" width="140" height="12" rx="6" fill="url(#a)"/>
+<text x="32" y="282">LLM SYSTEMS / AGENTS</text><rect x="260" y="270" width="400" height="12" rx="6" fill="#16202f"/><rect x="260" y="270" width="160" height="12" rx="6" fill="url(#a)"/>
+</g>
+<text x="32" y="316" font-size="12" fill="#6ee7b7">STATUS: BUILDING</text>
+<text x="728" y="316" font-size="12" fill="#5b6b86" text-anchor="end">self-assessed · updated 2026-10</text>
+</g>
+</svg>
